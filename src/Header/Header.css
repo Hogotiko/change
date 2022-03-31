@@ -1,0 +1,19 @@
+header{background: #50025a;}
+
+.top-bar{
+  padding: 0;
+  font-size: 12px;
+  border-bottom: 4px solid #50025a;
+  min-height: 40px;
+}
+
+.main-header{
+  padding: 2px 0 2px;
+}
+
+.site-title{
+  color: #fff;
+}
+
+
+
